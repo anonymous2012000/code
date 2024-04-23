@@ -1,6 +1,6 @@
 # Polynomial Factorizations
 
-To execute the code, after downloading the files, take the following steps: 
+To execute the code, after downloading the files and installing GMP, NTL, and CryptoPP libraries, take the following steps: 
 
      g++    -c Rand.cpp  -lntl -lgmpxx -lgmp -lcryptopp -std=c++11
 
