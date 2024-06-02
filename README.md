@@ -10,4 +10,4 @@ To execute the code, after downloading the files and installing GMP, NTL, and Cr
 
 
 
-Note that for you convenience I've included the NTL and CryptoPP libraries that code used. 
+Note that for you convenience I've included the NTL library that code used. 
